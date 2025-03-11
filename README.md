@@ -27,7 +27,7 @@ The script handles most dependencies automatically but requires:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/music-finder.git
+   git clone https://github.com/Siddhesh9000/music-finder.git
    ```
 
 2. Make the script executable:
